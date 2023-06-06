@@ -366,4 +366,4 @@ FOR PULSE AT 900
 TON = 3.5, TOFF= 0.5, TOTAL TIME = 4, FREQUENCY = 1/(TOTAL TIME), FREQUENCY = 250Hz
 
 ## Result:
-A PWM signalis generated using the following frequency and various buty cycles are simulated
+A PWM signals generated using the following frequency and various duty cycles are simulated
